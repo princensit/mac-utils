@@ -125,6 +125,33 @@ brew install ffmpeg
 ```
 brew install parquet-tools
 ```
+* Kap - Screen recorder - https://github.com/wulkano/kap
+```
+brew cask install kap
+```
+* fzf - A command-line fuzzy finder
+```
+brew install fzf
+
+# To install useful key bindings and fuzzy completion:
+$(brew --prefix)/opt/fzf/install
+```
+* bat - Cat clone with wings
+```
+brew install bat
+```
+* htop - Interactive text-mode process viewer for Unix systems
+```
+brew install htop
+```
+* piknik - Copy/paste anything over the network
+```
+brew install piknik
+```
+* fkill - Fabulously kill processes
+```
+npm install --global fkill-cli
+```
 
 ## Brew useful commands
 * brew doctor
