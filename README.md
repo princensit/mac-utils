@@ -152,6 +152,10 @@ brew install piknik
 ```
 npm install --global fkill-cli
 ```
+* Broot - A better way to navigate directories
+```
+brew install broot
+```
 
 ## Brew useful commands
 * brew doctor
